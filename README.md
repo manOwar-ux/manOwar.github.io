@@ -1,1 +1,1 @@
-# module2-solution(COURSERA)
+# module2-solution
